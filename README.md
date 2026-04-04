@@ -220,7 +220,7 @@ plotly
 
 **Surisetti Manoj Akash**  
 B.Tech — Cyber Security  
-[LinkedIn](www.linkedin.com/in/manoj-akash-surisetti-616a032b9) | [GitHub](https://github.com/Surisetti-4002)
+[LinkedIn](https://www.linkedin.com/in/manoj-akash-surisetti-616a032b9/) | [GitHub](https://github.com/Surisetti-4002)
 
 ---
 
