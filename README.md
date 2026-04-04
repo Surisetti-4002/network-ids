@@ -6,8 +6,17 @@ A machine learning-based Network Intrusion Detection System trained on the **NSL
 
 ## Dashboard Preview
 
-> Real-time traffic analysis with color-coded severity alerts, confidence scoring, and model comparison across 3 ML models.
+### Main Dashboard
+![Main Dashboard](screenshots/dashboard_main.png)
 
+### Traffic Charts
+![Charts](screenshots/dashboard_charts.png)
+
+### Detection Results Table
+![Results Table](screenshots/dashboard_table.png)
+
+### Batch Model Comparison
+![Batch Analysis](screenshots/dashboard_batch.png)
 ---
 
 ## Features
