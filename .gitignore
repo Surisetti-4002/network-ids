@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.env
+logs/ids_alerts.log
+models/
+*.h5
+.streamlit/
