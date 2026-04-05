@@ -1,9 +1,39 @@
+
+.streamlit/
+# Virtual environment
 venv/
+
+# Python cache
 __pycache__/
 *.pyc
 *.pyo
+
+# Environment variables
 .env
+
+# Logs
 logs/ids_alerts.log
+logs/live_feed.json
+
+# Models (large files)
 models/
+
+# Old model format
 *.h5
+
+# Streamlit
 .streamlit/
+
+# Data files (large)
+data/
+
+# VS Code
+.vscode/
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Jupyter
+.ipynb_checkpoints/
+notebooks/.ipynb_checkpoints/
